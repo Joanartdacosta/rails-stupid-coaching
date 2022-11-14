@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  color: purple;
+}
+
+a:link {
+  color: #ff0000;
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+a:hover {
+  color: #00ff00;
+  border-bottom: none;
+}
